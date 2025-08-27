@@ -1,4 +1,4 @@
-# WaterTank
+# Water Tank System
 Abstract Class: WaterTank class is an abstract base class that defines the common properties and methods of water tanks like filling the tank, using water, and retrieving the status of the tank.
 <img width="1026" height="491" alt="Image" src="https://github.com/user-attachments/assets/1195ab38-915c-4b72-9182-f0fff97866eb" />
 
